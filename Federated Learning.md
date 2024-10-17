@@ -4,7 +4,8 @@
 
 Federated Learning (FL) is a distributed machine learning approach where models are trained across multiple decentralized devices or servers, each holding local data samples, without the need to share that data. Instead of sending raw data to a central server, each device trains a model locally, and only model updates (like gradients or weights) are shared. This allows for collaborative model training while keeping the data secure and private.
 
-![72083f76-475f-4a38-b6b8-c29d664354e5_1108x598.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/6c548076-e1b4-4682-965a-d6ec06be4952/649f3983-e6ca-4d36-8aee-4f0e1ead776e/72083f76-475f-4a38-b6b8-c29d664354e5_1108x598.gif)
+![72083f76-475f-4a38-b6b8-c29d664354e5_1108x598](https://github.com/user-attachments/assets/52d1ed7c-81f4-46ff-bfc2-d1fdc4e2a30a)
+
 
 *Figure 1: Federated Learning Process Overview*
 
@@ -30,8 +31,8 @@ Centralized federated learning requires a central server. It coordinates the sel
 
 While this approach looks straightforward and generates accurate models, the central server poses a bottleneck problem—network failures can halt the complete 
 process.
+![63dd0bbd5a5e3b2accccdc3f_federated learning 1](https://github.com/user-attachments/assets/ddad5aa1-1b8b-4696-b276-0e2fd51c9e90)
 
-!https://cdn.prod.website-files.com/5d7b77b063a9066d83e1209c/63dd0bbd5a5e3b2accccdc3f_federated%20learning%201.webp
 
 ### Decentralized federated learning
 
@@ -39,8 +40,7 @@ Decentralized
 federated learning does not require a central server to coordinate the learning. Instead, the model updates are shared only among the interconnected edge devices. The final model is obtained on an edge device by aggregating the local updates of the connected edge devices.
 
 This approach prevents the possibility of a single-point failure; however, the model's accuracy is completely dependent on the network topology of the edge devices.
-
-!https://cdn.prod.website-files.com/5d7b77b063a9066d83e1209c/63dd0be289a72c7e01b470ef_local%20model.webp
+![63dd0be289a72c7e01b470ef_local model](https://github.com/user-attachments/assets/c37a959b-c31d-4dab-bc97-c6807890a18f)
 
 ### Heterogeneous federated learning
 
@@ -64,7 +64,6 @@ Federated Learning is being adopted in a variety of sectors where privacy and da
 
 - **Healthcare**: Federated Learning enables hospitals to collaborate on training models for medical imaging or diagnosis without sharing sensitive patient data.
 
-![fd.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/6c548076-e1b4-4682-965a-d6ec06be4952/5e3a496c-73f9-41b0-be0f-a4490693282b/fd.png)
 
 *Figure 3: Federated Learning in Healthcare*
 
