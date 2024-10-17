@@ -6,7 +6,6 @@ Federated Learning (FL) is a distributed machine learning approach where models 
 
 ![72083f76-475f-4a38-b6b8-c29d664354e5_1108x598](https://github.com/user-attachments/assets/52d1ed7c-81f4-46ff-bfc2-d1fdc4e2a30a)
 
-
 *Figure 1: Federated Learning Process Overview*
 
 ## How Federated Learning Works
@@ -63,6 +62,7 @@ HeteroFL was developed in response to the common Federated Learning strategies t
 Federated Learning is being adopted in a variety of sectors where privacy and data governance are crucial. Some notable applications include:
 
 - **Healthcare**: Federated Learning enables hospitals to collaborate on training models for medical imaging or diagnosis without sharing sensitive patient data.
+![fd](https://github.com/user-attachments/assets/b99eb9a7-5747-44b5-80af-ff6463cfb85a)
 
 
 *Figure 3: Federated Learning in Healthcare*
